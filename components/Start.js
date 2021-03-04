@@ -2,6 +2,7 @@ import React from 'react';
 import {
   ImageBackground,
   KeyboardAvoidingView,
+  Platform,
   StyleSheet,
   Text,
   TextInput,
@@ -89,6 +90,7 @@ export default class Start extends React.Component {
     )
   }
 }
+
 // styles
 const styles = StyleSheet.create({
   container: {
