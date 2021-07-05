@@ -1,6 +1,6 @@
 ## Chat App
 
-![Demo](demo/demo.gif)
+<p align="center"><img src="demo/demo.gif" height="500px"/></p>
 
 Chat App is a native chat app for mobile devices developed using **Expo**, **Google Firestore Database** (to store the chat messages) and the **Gifted Chat library**. The app provides users with a chat interface and options to share *images* and their *location*. Chat App is optimized for both *Android* and *iOS* devices because the **React Native** framework allows developing native apps with only one codebase.
 
